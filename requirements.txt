@@ -1,6 +1,6 @@
 langchain
 lanchain-community
-langchain_google-_genai
+langchain_google_genai
 langgraph
 dotenv
 crawl4ai
