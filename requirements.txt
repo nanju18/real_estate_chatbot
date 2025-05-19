@@ -1,0 +1,9 @@
+langchain
+lanchain-community
+langchain_google-_genai
+langgraph
+dotenv
+crawl4ai
+playwright
+chainlit
+glob
